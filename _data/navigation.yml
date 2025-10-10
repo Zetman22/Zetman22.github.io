@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Awards and Service"
+    url: "/#-awards-and-service"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  - title: "Work Experience"
+    url: "/#-work-experience"
+
+  - title: "CV"
+    url: "/images/cv.pdf"
