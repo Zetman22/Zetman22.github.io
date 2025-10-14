@@ -29,6 +29,7 @@ xxx
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+## Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Audio, Speech, and Language Processing</div><img src='images/taslp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +39,7 @@ xxx
 **Ngoc Chau Hoang**, Tien Dat Bui, Huu Binh Nguyen, Thanh Thi Hien Duong, Quoc Cuong Nguyen
 
 [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='u-x6o8ySG0sC'></span></strong>
-- Propose a dynamic and explicit information aggregation method to model latent speech representation more effectively in real-time multi-channel speech enhancement. 
+- Proposed a dynamic and explicit information aggregation method to model latent speech representation more effectively in real-time multi-channel speech enhancement. 
 </div>
 </div>
 
@@ -51,7 +52,7 @@ Perspectives for Real-time Speech Enhancement](https://www.sciencedirect.com/sci
 **Ngoc Chau Hoang**, Thi Nhat Linh Nguyen, Tuan Kiet Doan, Quoc Cuong Nguyen
 
 [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='9yKSN-GCB0IC'></span></strong>
-- Introduce useful inductive bias to global modeling operations (self-attention and graph convolution). 
+- Introduced useful inductive bias to global modeling operations (self-attention and graph convolution). 
 </div>
 </div>
 
@@ -64,22 +65,24 @@ Radar Characteristics and A Lightweight Spatio-Spectro-Temporal Network](https:/
 Van Ngoc Dang, **Ngoc Chau Hoang**, Quoc Cuong Nguyen, Minh Thuy Le
 
 [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong>
-- Develope a mmWave radar-based human activity recognition system that can adaptively model complex spatial dependencies among receivers, enabling it to distinguish the direction of body parts’ movements. This is especially beneficial for recognizing activities performed along arbitrary trajectories.
+- Developed a mmWave radar-based human activity recognition system that can adaptively model complex spatial dependencies among receivers, enabling it to distinguish the direction of body parts’ movements. This is especially beneficial for recognizing activities performed along arbitrary trajectories.
 </div>
 </div>
 
-- [DConvT: Deep Convolution-Transformer Network Utilizing Multi-Scale Temporal Attention for Speech Enhancement](https://ieeexplore.ieee.org/abstract/document/10634678/), Ngoc Chau Hoang, Anh Xuan Tran Thi, Quoc Cuong Nguyen, **2024 Tenth International Conference on Communications and Electronics**
+## Other Publications
 
-- [Intelligent Passive Infrared Sensor Based on Learning Vector Quantization for Human Detection](https://iopscience.iop.org/article/10.1088/2631-8695/ad351e/meta), Tuan Kiet Doan, Thi Nhat Linh Nguyen, Ngoc Chau Hoang, Minh Thuy Le, Quoc Cuong Nguyen, **Engineering Research Express**
+- [DConvT: Deep Convolution-Transformer Network Utilizing Multi-Scale Temporal Attention for Speech Enhancement](https://ieeexplore.ieee.org/abstract/document/10634678/), Ngoc Chau Hoang, Anh Xuan Tran Thi, Quoc Cuong Nguyen, ***2024 Tenth International Conference on Communications and Electronics***
 
-- [Multi-Channel Speech Enhancement Using A Minimum Variance Distortionless Response Beamformer Based on Graph Convolutional Network](https://search.proquest.com/openview/308b3979bff3487ea2c858718081ff17/1?pq-origsite=gscholar&cbl=5444811), Huu Binh Nguyen, Duong Van Hai, Tien Dat Bui, Ngoc Chau Hoang, Quoc Cuong Nguyen, **International Journal of Advanced Computer Science and Applications**
+- [Intelligent Passive Infrared Sensor Based on Learning Vector Quantization for Human Detection](https://iopscience.iop.org/article/10.1088/2631-8695/ad351e/meta), Tuan Kiet Doan, Thi Nhat Linh Nguyen, Ngoc Chau Hoang, Minh Thuy Le, Quoc Cuong Nguyen, ***Engineering Research Express***
 
-# 📖 Educations
+- [Multi-Channel Speech Enhancement Using A Minimum Variance Distortionless Response Beamformer Based on Graph Convolutional Network](https://search.proquest.com/openview/308b3979bff3487ea2c858718081ff17/1?pq-origsite=gscholar&cbl=5444811), Huu Binh Nguyen, Duong Van Hai, Tien Dat Bui, Ngoc Chau Hoang, Quoc Cuong Nguyen, ***International Journal of Advanced Computer Science and Applications***
+
+# 📖 Education
 - *2022.12 - 2024.12*, Master, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 - *2018.08 - 2022.09*, Undergraduate, Hanoi University of Science and Technology, Hanoi, Vietnam.
 
 # 🎖 Awards and Service
-- *2024.02*, Scholarship for Graduate Students: Awarded to outstanding graduate students. 
+- *2024.02*, Graduate Scholarship: Awarded to outstanding graduate students. 
 - *2020 - 2021*, Study Encouragement Scholarship : Awarded to top 2% excellent students out of a total of more than 30,000
 undergraduate students by Hanoi University of Science and Technology. (Fall’20, Spring’21, Fall’21).
 - Reviewer for Journal: Machine Learning: Science and Technology (MLST)
