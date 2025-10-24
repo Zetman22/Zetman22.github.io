@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I graduated from HUST with a Master degree.
+I am a research engineer at [Viettel AI](https://viettelai.vn/). Previously, I obtained the M.S. and B.S degrees in control engineering and automation at Hanoi University of Science and Technology (HUST), Vietnam, in 2022 and 2024, respectively.
 
-My research interest includes multipurpose generative models for speech-related tasks, model and sample efficiency at test time, and foundation audio and speech AI models. 
+During my time at Sensor Lab at HUST, I gained significant research experience, particularly in machine learning for speech and signal processing. I previously worked on flexible and efficient representation learning for real-time speech enhancement, which resulted in several publications in prestigious journals, including IEEE/ACM Transactions on Audio, Speech, and Language Processing, Applied Acoustics, and Measurement. I am currently working in industry, where I am responsible for developing several front-end processing systems for our company's products, such as wakeword detection, echo cancellation, speaker diarization, and speech extraction and enhancement for robust automatic speech recognition (ASR). 
 
-xxx
+## Research Interests
+
+- Audio, Speech, and Signal Processing
+
+- Multi-modal Learning
 
 
 <!-- # 🔥 News
@@ -38,7 +42,7 @@ xxx
 
 **Ngoc Chau Hoang**, Tien Dat Bui, Huu Binh Nguyen, Thanh Thi Hien Duong, Quoc Cuong Nguyen
 
-[**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='u-x6o8ySG0sC'></span></strong>
+<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='u-x6o8ySG0sC'></span></strong> -->
 - Proposed a dynamic and explicit information aggregation method to model latent speech representation more effectively in real-time multi-channel speech enhancement. 
 </div>
 </div>
@@ -51,7 +55,7 @@ Perspectives for Real-time Speech Enhancement](https://www.sciencedirect.com/sci
 
 **Ngoc Chau Hoang**, Thi Nhat Linh Nguyen, Tuan Kiet Doan, Quoc Cuong Nguyen
 
-[**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='9yKSN-GCB0IC'></span></strong>
+<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='9yKSN-GCB0IC'></span></strong> -->
 - Introduced useful inductive bias to global modeling operations (self-attention and graph convolution). 
 </div>
 </div>
@@ -64,7 +68,7 @@ Radar Characteristics and A Lightweight Spatio-Spectro-Temporal Network](https:/
 
 Van Ngoc Dang, **Ngoc Chau Hoang**, Quoc Cuong Nguyen, Minh Thuy Le
 
-[**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong>
+<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong> -->
 - Developed a mmWave radar-based human activity recognition system that can adaptively model complex spatial dependencies among receivers, enabling it to distinguish the direction of body parts’ movements. This is especially beneficial for recognizing activities performed along arbitrary trajectories.
 </div>
 </div>
