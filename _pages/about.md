@@ -73,7 +73,7 @@ Van Ngoc Dang, **Ngoc Chau Hoang**, Quoc Cuong Nguyen, Minh Thuy Le
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning-based Human Activity Recognition with FMCW Radar: A Review (accepted)](images/Deep Learning-based Human Activity Recognition with FMCW Radar - A Review.pdf)
@@ -86,7 +86,7 @@ human activity recognition using FMCW radar, including radar signal processing t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/taslp2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Audio, Speech, and Language Processing</div><img src='images/taslp2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement (under revision)](images/SUDx_Revised_1.pdf)
