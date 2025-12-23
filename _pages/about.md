@@ -73,6 +73,31 @@ Van Ngoc Dang, **Ngoc Chau Hoang**, Quoc Cuong Nguyen, Minh Thuy Le
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning-based Human Activity Recognition with FMCW Radar: A Review (accepted)](images/Deep Learning-based Human Activity Recognition with FMCW Radar - A Review.pdf)
+
+Van Ngoc Dang, **Ngoc Chau Hoang**, Minh Thuy Le, Kien Nguyen, Quoc Cuong Nguyen
+
+<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong> -->
+- Reviewed the state of the art on deep learning-based
+human activity recognition using FMCW radar, including radar signal processing techniques, model architectures, and existing datasets.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/taslp2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement (under revision)](images/SUDx_Revised_1.pdf)
+
+Ngoc Thuan Tran, **Ngoc Chau Hoang**, Quoc Cuong Nguyen
+
+<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong> -->
+- Introduced hierarchical fusion of speech separation features and speaker embeddings to bridge the resolution gap between two tasks, aligning the separation task with the inherent nature of diarization.
+</div>
+</div>
+
 ## Other Publications
 
 - [DConvT: Deep Convolution-Transformer Network Utilizing Multi-Scale Temporal Attention for Speech Enhancement](https://ieeexplore.ieee.org/abstract/document/10634678/), Ngoc Chau Hoang, Anh Xuan Tran Thi, Quoc Cuong Nguyen, ***2024 Tenth International Conference on Communications and Electronics***
