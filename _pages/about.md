@@ -89,7 +89,7 @@ human activity recognition using FMCW radar, including radar signal processing t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Audio, Speech, and Language Processing</div><img src='images/taslp2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement (under revision)](images/SUDx_Revised_1.pdf)
+[Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement (accepted)](images/SUDx_Revised_1.pdf)
 
 Ngoc Thuan Tran, **Ngoc Chau Hoang**, Quoc Cuong Nguyen
 
@@ -117,4 +117,4 @@ undergraduate students by Hanoi University of Science and Technology. (Fall’20
 - Reviewer for Journal: Machine Learning: Science and Technology (MLST)
 
 # 💻 Work Experience
-- *2025.06 - 2025.12 (now)*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
+- *2025.06 - 2026.01 (now)*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
