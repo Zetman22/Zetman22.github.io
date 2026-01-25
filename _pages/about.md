@@ -76,11 +76,11 @@ Van Ngoc Dang, **Ngoc Chau Hoang**, Quoc Cuong Nguyen, Minh Thuy Le
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning-based Human Activity Recognition with FMCW Radar: A Review (accepted)](images/Deep Learning-based Human Activity Recognition with FMCW Radar - A Review.pdf)
+[Deep Learning-based Human Activity Recognition with FMCW Radar: A Review](https://ieeexplore.ieee.org/document/11346884)
 
 Van Ngoc Dang, **Ngoc Chau Hoang**, Minh Thuy Le, Kien Nguyen, Quoc Cuong Nguyen
 
-<!-- [**Project**](https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=3Xqm9JIAAAAJ&citation_for_view=3Xqm9JIAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong> -->
+<!-- [**Project**](https://ieeexplore.ieee.org/document/11346884) <strong><span class='show_paper_citations' data='UeHWp8X0CEIC'></span></strong> -->
 - Reviewed the state of the art on deep learning-based
 human activity recognition using FMCW radar, including radar signal processing techniques, model architectures, and existing datasets.
 </div>
@@ -89,7 +89,7 @@ human activity recognition using FMCW radar, including radar signal processing t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Audio, Speech, and Language Processing</div><img src='images/taslp2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement (accepted)](images/SUDx_Revised_1.pdf)
+[Speaker-conditioned U-shaped Diarization with Speaker Extraction-guided Enhancement](https://ieeexplore.ieee.org/document/11352871)
 
 Ngoc Thuan Tran, **Ngoc Chau Hoang**, Quoc Cuong Nguyen
 
