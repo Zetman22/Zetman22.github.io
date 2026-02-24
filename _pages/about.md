@@ -117,4 +117,4 @@ undergraduate students by Hanoi University of Science and Technology. (Fall’20
 - Reviewer for Journal: Machine Learning: Science and Technology (MLST)
 
 # 💻 Work Experience
-- *2025.06 - 2026.01 (now)*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
+- *2025.06 - Present*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
