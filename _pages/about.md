@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research engineer at [Viettel AI](https://viettelai.vn/). Previously, I obtained the M.S. and B.S degrees in control engineering and automation at Hanoi University of Science and Technology (HUST), Vietnam, in 2022 and 2024, respectively.
+I am a Ph.D. student in Computer Science at the University of Maryland, College Park, advised by [Prof. Ming C. Lin](https://www.cs.umd.edu/people/lin) and [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I am a member of the [GAMMA Lab](https://gamma.umd.edu/), where I work on grounded auditory intelligence for long-horizon spoken interaction. My research focuses on building online auditory agents that can understand and reason over long-form, real-world spoken interactions.
 
-During my time at Sensor Lab at HUST, I gained significant research experience, particularly in machine learning for speech and signal processing. I previously worked on flexible and efficient representation learning for real-time speech enhancement, which resulted in several publications in prestigious journals, including IEEE/ACM Transactions on Audio, Speech, and Language Processing, Applied Acoustics, and Measurement. I am currently working in industry, where I am responsible for developing several front-end processing systems for our company's products, such as wakeword detection, echo cancellation, speaker diarization, and speech extraction and enhancement for robust automatic speech recognition (ASR). 
+Previously, I was an AI Engineer at Viettel AI, working on simultaneous speech translation, robust automatic speech recognition, and speech processing systems for the company's products. Before that, I conducted research at Sensor Lab, Hanoi University of Science and Technology (HUST), primarily on speech enhancement and efficient speech representation learning. My work has resulted in publications in IEEE/ACM TASLP, Applied Acoustics, and Measurement. I received my M.S. and B.S. degrees in Control Engineering and Automation from HUST in 2024 and 2022, respectively.
+
 
 ## Research Interests
 
 - Audio, Speech, and Signal Processing
+
+- Long-horizon Conversational Agents
 
 - Multi-modal Learning
 
@@ -107,6 +110,7 @@ Ngoc Thuan Tran, **Ngoc Chau Hoang**, Quoc Cuong Nguyen
 - [Multi-Channel Speech Enhancement Using A Minimum Variance Distortionless Response Beamformer Based on Graph Convolutional Network](https://search.proquest.com/openview/308b3979bff3487ea2c858718081ff17/1?pq-origsite=gscholar&cbl=5444811), Huu Binh Nguyen, Duong Van Hai, Tien Dat Bui, Ngoc Chau Hoang, Quoc Cuong Nguyen, ***International Journal of Advanced Computer Science and Applications***
 
 # 📖 Education
+- *2026.08 - Present*, Ph.D., University of Maryland, College Park, MD, USA. 
 - *2022.12 - 2024.12*, Master, Hanoi University of Science and Technology, Hanoi, Vietnam. 
 - *2018.08 - 2022.09*, Undergraduate, Hanoi University of Science and Technology, Hanoi, Vietnam.
 
@@ -117,4 +121,4 @@ undergraduate students by Hanoi University of Science and Technology. (Fall’20
 - Reviewer for Journal: Machine Learning: Science and Technology (MLST)
 
 # 💻 Work Experience
-- *2025.06 - Present*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
+- *2025.06 - 2026.06*, [Viettel AI](https://viettelai.vn/), Hanoi, Vietnam.
